@@ -3,6 +3,6 @@ Airlines Data Analytics for Avaition Industry
 
 TEAM MEMBERS
 1. Akash V - Team Leader
-2. Jaishankar - Team Member 1
-3. Ajay krithik - Team Member 2
+2. Jaishankar JK - Team Member 1
+3. Ajay kirthick T - Team Member 2
 4. Aravind V - Team Member 3
